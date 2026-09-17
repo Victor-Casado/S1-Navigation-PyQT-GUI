@@ -1,3 +1,6 @@
 [submodule "phase1"]
 	path = phase1
 	url = https://github.com/Victor-Casado/S2-Loop.git
+[submodule "phase1-arav"]
+	path = phase1-arav
+	url = https://github.com/AravJuneja/UMDLOOPCWEEK_PHASE_I.git
